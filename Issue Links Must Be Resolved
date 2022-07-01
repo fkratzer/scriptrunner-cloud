@@ -1,0 +1,2 @@
+issue.links.filter(L => (L.linkedIssue.resolution.name != 'None')).length ==
+issue.links.length
